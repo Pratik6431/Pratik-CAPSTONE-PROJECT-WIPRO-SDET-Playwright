@@ -13,7 +13,7 @@
 The detailed project proposal, listing all the selected services and their testing scope, has been documented and uploaded to this repository.
 * **Proposal Document:** `Capstone_Project_Planner.docx`
 
-## 🛠️ Services Selected for Testing
+##  Services Selected for Testing
 1. **Authentication & User Management** - Login, registration, and logout flows.
 2. **Product Search & Discovery** - Search bars, product grids, sorting, and filters.
 3. **Cart Management** - Adding items, quantity updates, subtotals, and checkout initiation.
