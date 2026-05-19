@@ -5,11 +5,11 @@
 
 ##  Project Overview
 * **Automation Tool:** Playwright (JavaScript)
-* **Target Application:** LambdaTest Ecommerce Playground
+* **Target Application:** https://ecommerce-playground.lambdatest.io/
 * **Total Services in Scope:** 8 Core Services
 * **Total Test Cases:** 120 Test Cases (15 per service)
 
-## 📁 Project Structure & Documentation
+##  Project Structure & Documentation
 The detailed project proposal, listing all the selected services and their testing scope, has been documented and uploaded to this repository.
 * **Proposal Document:** `Capstone_Project_Planner.docx`
 
