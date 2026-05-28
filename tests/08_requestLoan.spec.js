@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const { LoginPage } = require('../pages/LoginPage');
+const { LoginPage } = require('../pages/01_LoginPage');
 const { RequestLoanPage } = require('../pages/08_RequestLoanPage');
 
 test.describe('Service 8: Request Loan Service - Full 15 Parametric Test Matrix', () => {

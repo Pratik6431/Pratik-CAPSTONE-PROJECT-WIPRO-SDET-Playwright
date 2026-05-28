@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
-const { LoginPage } = require('../pages/LoginPage');
-const { AccountsOverviewPage } = require('../pages/AccountsOverviewPage');
+const { LoginPage } = require('../pages/01_LoginPage');
+const { AccountsOverviewPage } = require('../pages/03_AccountsOverviewPage');
 
 test.describe('Service 3: Accounts Overview Balance Grid - 15 Parametric Scenarios', () => {
 

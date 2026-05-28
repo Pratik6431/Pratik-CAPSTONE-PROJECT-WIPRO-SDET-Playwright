@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const { LoginPage } = require('../pages/LoginPage');
+const { LoginPage } = require('../pages/01_LoginPage');
 const { TransferFundsPage } = require('../pages/04_TransferFundsPage');
 
 test.describe('Service 4: Account-to-Account Transfer Funds - 15 Parametric Scenarios', () => {

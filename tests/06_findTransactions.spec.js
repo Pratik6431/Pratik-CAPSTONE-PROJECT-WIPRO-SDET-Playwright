@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const { LoginPage } = require('../pages/LoginPage');
+const { LoginPage } = require('../pages/01_LoginPage');
 const { FindTransactionsPage } = require('../pages/06_FindTransactionsPage');
 
 test.describe('Service 6: Advanced Find Transactions Filter - 15 Parametric Scenarios', () => {

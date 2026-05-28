@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
-const { LoginPage } = require('../pages/LoginPage');
-const { NewAccountPage } = require('../pages/NewAccountPage');
+const { LoginPage } = require('../pages/01_LoginPage');
+const { NewAccountPage } = require('../pages/02_NewAccountPage');
 
 test.describe('Service 2: Open New Bank Account - 15 Parametric Scenarios', () => {
 
