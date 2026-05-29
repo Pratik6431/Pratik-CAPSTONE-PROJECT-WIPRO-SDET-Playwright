@@ -28,7 +28,8 @@ The project implements the **Page Object Model (POM)** pattern to clean separate
 
 ```text
 wipro-capstone-project/
-├── pages/                 # Page Object Classes (Locators & Core Actions)
+├── .github/                            # GitHub Actions workflows / CI configuration
+├── pages/                              # Page Object Classes (Locators & Core Actions)
 │   ├── 01_LoginPage.js
 │   ├── 02_NewAccountPage.js
 │   ├── 03_AccountOverviewPage.js
@@ -37,7 +38,7 @@ wipro-capstone-project/
 │   ├── 06_TransactionSearchPage.js
 │   ├── 07_CustomerSupportPage.js
 │   └── 08_AdminPage.js
-├── tests/                 # 120 Automated Test Scripts (.spec.js files)
+├── tests/                              # 120 Automated Test Scripts (.spec.js files)
 │   ├── 01_authentication.spec.js
 │   ├── 02_newAccount.spec.js
 │   ├── 03_accountOverview.spec.js
@@ -46,6 +47,9 @@ wipro-capstone-project/
 │   ├── 06_transactionSearch.spec.js
 │   ├── 07_customerSupport.spec.js
 │   └── 08_internalApi.spec.js
-├── playwright.config.js   # Main Playwright global test execution properties
-├── package.json           # Project metadata, custom CLI scripts, and dependencies
-└── README.md              # Project documentation (This file)
+├── .gitignore                          # Files and folders ignored by Git
+├── README.md                           # Project documentation (This file)
+├── package-lock.json                   # Locked versions of project dependencies
+├── package.json                        # Project metadata, custom CLI scripts, and dependencies
+├── playwright.config.js                # Main Playwright global test execution properties
+└── wipro-capstone-project-documentation.pdf  # Project documentation
