@@ -1,0 +1,1 @@
+[TC-LOAN-14 Telemetry]: Status returned -> Approved

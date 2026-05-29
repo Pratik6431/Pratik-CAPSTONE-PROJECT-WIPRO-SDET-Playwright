@@ -1,0 +1,1 @@
+[TC-REG-13 Telemetry]: Onboarding test sequence verified.
