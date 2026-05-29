@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const { LoginPage } = require('../pages/01LoginPage');
+const { LoginPage } = require('../pages/01_LoginPage');
 const { BillPayPage } = require('../pages/05_BillPayPage');
 
 test.describe('Service 5: Utility Bill Payment Service - 15 Parametric Scenarios', () => {
